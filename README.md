@@ -1,2 +1,4 @@
-# Ajax_API
-Latihan API menggunakan Ajax
+# AJAX OMDB API
+API = http://www.omdbapi.com/?apikey=[yourkey]&....
+
+Fitur Search 
